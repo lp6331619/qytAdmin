@@ -1,2 +1,2 @@
-import store from '@/store.js';
-export default store;
+import store from './store.js'
+export default store
